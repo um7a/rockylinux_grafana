@@ -28,7 +28,7 @@ $ make build
 $ make run
 ```
 
-### Run attach on container
+### Attach on container
 
 ```bash
 $ make attach
